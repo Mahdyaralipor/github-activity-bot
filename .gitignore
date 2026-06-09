@@ -1,0 +1,3 @@
+# Keep the shell scripts out of accidental overwrites
+*.log
+.env
